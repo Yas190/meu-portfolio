@@ -4,7 +4,7 @@ Bem-vindo(a)! Este repositório centraliza os principais projetos e estudos que 
 
 ## 📚 Estudos
 
-- 🐼 **[Curso de Pandas](https://github.com/seu-usuario/pandas-curso-udemy)**  
+- 🐼 **[Curso de Pandas](https://github.com/Yas190/Pandas-Project)**  
   Manipulação e análise de dados com Pandas, aplicado a conjuntos reais.
 
 - 🛢️ **[Estudos de Banco de Dados e SQL](https://github.com/Yas190/Banco-de-Dados)**  
@@ -19,3 +19,5 @@ Bem-vindo(a)! Este repositório centraliza os principais projetos e estudos que 
 ---
 
 🔗 Fique à vontade para explorar os repositórios e me contatar em caso de dúvidas ou oportunidades!
+
+📎 **[Me adicione no LinkedIn](https://www.linkedin.com/in/seu-usuario/)](https://www.linkedin.com/in/yasmin-pires-67a56818b/)**
