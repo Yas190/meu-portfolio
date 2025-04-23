@@ -20,4 +20,4 @@ Bem-vindo(a)! Este repositório centraliza os principais projetos e estudos que 
 
 🔗 Fique à vontade para explorar os repositórios e me contatar em caso de dúvidas ou oportunidades!
 
-📎 **[Me adicione no LinkedIn](https://www.linkedin.com/in/seu-usuario/)](https://www.linkedin.com/in/yasmin-pires-67a56818b/)**
+📎 **[Me adicione no LinkedIn](https://www.linkedin.com/in/yasmin-pires-67a56818b/)**
